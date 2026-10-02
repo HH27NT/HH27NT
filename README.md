@@ -8,8 +8,8 @@ Software developer building backend APIs, libraries and desktop apps.
 
 | Project | What it is | Highlights |
 |---|---|---|
-| [**Cerbero Core**](https://github.com/HH27NT/cerbero-core) | Risk-management and trade-statistics library | C# · platform-agnostic · 28 tests · 96.6% line coverage |
-| [**UNO Game API**](https://github.com/HH27NT/uno-game-api) | Multiplayer UNO backend with real-time updates and a desktop client | Node.js · Express · Socket.IO · 255 tests · 98.7% line coverage |
+| [**Cerbero Core**](https://github.com/HH27NT/cerbero-core) | Risk-management and trade-statistics library | C# · platform-agnostic · 28 tests |
+| [**UNO Game API**](https://github.com/HH27NT/uno-game-api) | Multiplayer UNO backend with real-time updates and a desktop client | Node.js · Express · Socket.IO · 255 tests |
 | [**tECHnologies POS — API**](https://github.com/HH27NT/technologies-pos-backend) & [**Web**](https://github.com/HH27NT/technologies-pos-frontend) | Multi-tenant point-of-sale SaaS for bars and restaurants, led by [@LaloP1](https://github.com/LaloP1) | My part: security hardening (authorization-PIN key), Docker and CI setup, responsive UI, and full-stack features in Laravel + React |
 | [**Space Invaders**](https://github.com/HH27NT/space-invaders-csharp) | Classic arcade clone | C# · Windows Forms |
 
