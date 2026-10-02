@@ -1,4 +1,4 @@
-## Hi, I'm Héctor Hugo Naranjo 👋
+## Hi, I'm Héctor Hugo Naranjo 
 
 Software developer building backend APIs, libraries and desktop apps.
 
